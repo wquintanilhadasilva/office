@@ -1,0 +1,1 @@
+Setup.exe /configure Configuração.xml
